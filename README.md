@@ -34,6 +34,11 @@ For minimal compressed version:
 
 `//= require underscore.string.min`
 
+## Changelog
+
+# 0.0.2
+  Added edge versions of underscore.string library.
+
 ## Contributing
 
 1. Fork it
